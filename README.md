@@ -1,6 +1,6 @@
 # 
 ## GVPN PRIVACY NOTICE
-Last updated April 07, 2021
+Last updated September 10, 2022
 
 
 
